@@ -1,11 +1,3 @@
-# 2023-24-BE8
-# PradushanCheck: Comprehensive Air Quality Forecasting and Monitoring
+For Data Visualization on Tableau, the following dataset is used :
 
-
-# Project Mentor: Dr. Gresha Bhatia 
-
-# Group Members:
-Ashutosh Mishra
-Nikhil Haswani 
-Muskan Chhabria 
-Vanshika Thakur
+https://drive.google.com/drive/folders/1XmYHB_Vxfk_wSqYY1Q51cYL_CZhSP9kU?usp=sharing
